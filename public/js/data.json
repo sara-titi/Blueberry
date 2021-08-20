@@ -1,0 +1,1138 @@
+{
+    "carousel" : [
+        {
+            "id" : 1,
+            "image" :"/images/carousel/im1.jpg"
+        },
+        {
+            "id" : 2,
+            "image" :"/images/carousel/im2.jpg"
+        },
+        {
+            "id" : 3,
+            "image" :"/images/carousel/im3.jpg"
+        },
+        {
+            "id" : 4,
+            "image" :"/images/carousel/im4.jpg"
+        },
+        {
+            "id" : 5,
+            "image" :"/images/carousel/im5.jpg"
+        }
+
+    ] ,
+
+
+    "categories" :[
+        {
+            "id" : 1,
+            "image" :"/images/categories/im1.jpg",
+            "name"   :"Perfumes"
+
+        },
+        { "id" : 2,
+          "image" :"/images/categories/im2.jpg",
+          "name"   :"Accessories"
+        },
+         
+        { "id" : 3,
+          "image" :"/images/categories/im3.jpg",
+          "name"   :"Toys"
+        },
+      
+         { "id" : 4,
+           "image" :"/images/categories/im4.jpg",
+            "name"   :"Watches"
+        }
+
+    ],
+    "offers":[
+        [    {
+        "id"       : 1,
+        "image"    :"/images/offers/im1.jpg",
+         "name"    :"Fresh Freestanding Dishwasher, 8 Place Settings, 45 cm, Silver - WQP8-9259 MDoffer",
+         "price"   : "950$",
+         "color":   "white",
+         "offer":  "4%",
+         "oldPrice" :"1300$",
+         "newPrice" :"950$"
+
+    },
+    {
+        "id"       : 2,
+        "image"    :"/images/offers/im2.jpg",
+         "name"    :"Sandisk Cruzer Spark 16GB, USB 2.0, Flash Drive ( 2 Flash memory offer )",
+         "price"   : "40$",
+         "color":   "red",
+         "offer":  "9%",
+         "oldPrice" :"52$",
+         "newPrice" :"40$"
+
+    }
+    
+    ,
+    {
+        "id"       : 3,
+        "image"    :"/images/offers/im3.jpg",
+         "name"    :"Xiaomi Mi Smart Band 5 Global Version - Black",
+         "price"   : "90$",
+         "color":   " Black",
+         "offer":  "15%"
+         ,"oldPrice" :"120$",
+         "newPrice" :"97$"
+
+    }
+    
+    
+    
+    ,
+    
+    {
+        "id"       : 4,
+        "image"    :"/images/offers/im4.jpg",
+         "name"    :" Media Tech MT.1700 Drum Vacuum Cleaner 1600 Watt MDoffer",
+         "price"   : "110$",
+         "color":   " Black",
+         "offer":  "13%"
+         ,"oldPrice" :"900$",
+         "newPrice" :"750$"
+
+    }
+    ],[ {
+        "id"       : 5,
+        "image"    :"/images/offers/im5.jpg",
+         "name"    :" MSI LAPOTP GF63 THIN 9SCSR ( I5-9300H-8GB RAM-512GB SSD-15.6 INCH FHD-NG FORCE GTX 1650 TI 4GB-DOS )+MOUSE+PAD MOUSE For Free MSIOffer",
+         "price"   : "750$",
+         "color":   " move",
+         "offer":  "20%"
+         ,"oldPrice" :"1350$",
+         "newPrice" :"110$"
+
+    }
+    ,
+    
+    {
+        "id"       : 6,
+        "image"    :"/images/offers/im6.jpg",
+         "name"    :"Braun Silk-épil 1 1170 Epilator - Pink PerscareOffer",
+         "price"   : "750$",
+         "color":   " white",
+         "offer":  "7%"
+         ,"oldPrice" :"800$",
+         "newPrice" :"750$"
+
+    },
+    {
+        "id"       : 7,
+        "image"    :"/images/offers/im7.jpg",
+         "name"    :"Fresh Microwave, 20 Liters, 700 Watt, White - FMW-20MC-W MDoffer",
+         "price"   : "440$",
+         "color":   " white",
+         "offer":  "11%"
+         ,"oldPrice" :"650$",
+         "newPrice" :"440$"
+
+    },
+    {
+        "id"       : 8,
+        "image"    :"/images/offers/im8.jpg",
+         "name"    :"Nikai 32 Inch HD LED TV NE32LED + (32 Tv Wall mount for free)",
+         "price"   : "1550$",
+         "color":   " black",
+         "offer":  "8%"
+         ,"oldPrice" :"900$",
+         "newPrice" :"1550$"
+
+    }]
+    
+        
+           
+       
+    ],
+
+    "mobile" : 
+    [  
+          {
+       
+        "id"       : 1,
+        "collection":"Mobile Phones and Accessories",
+        "image"    :"/images/mobile/im1.jpg",
+         "name"    :"Huawei Y5p dual SIM phone - 5.45 inches screen, 32 GB, 2 GB RAM, 4G LTE, black",
+         "price"   : "100$"
+         ,"color"   : "Black"
+       
+
+    },
+    {
+        "id"       : 2,
+        "collection":"Mobile Phones and Accessories",
+        "image"    :"/images/mobile/im2.jpg",
+         "name"    :"  Samsung Galaxy Grand Prime Plus Black",
+         "price"   : "110$"
+         ,"color"   : "Black"
+
+    },
+    {
+        "id"       : 3,
+        "collection":"Mobile Phones and Accessories",
+        "image"    :"/images/mobile/im3.jpg",
+         "name"    :"Infinix Smart 5, 2GB RAM, 32GB Memory Blue ",
+         "price"   : "110$"
+         ,"color"   : "Blue"
+       
+
+    },
+    {
+        "id"       : 4,
+        "collection":"Mobile Phones and Accessories",
+        "image"    :"/images/mobile/im3.jpg",
+         "name"    :" Redmi 9A RAM 2 mobile phone with 32GB memory ",
+         "price"   : "115$"
+         ,"color"   : "Blue"
+       
+
+    },
+    {
+        "id"       : 5,
+        "collection":"Mobile Phones and Accessories",
+        "image"    :"/images/mobile/im5.jpg",
+         "name"     :" Samsung Galaxy A01 Dual SIM - 16GB, 2GB RAM, 4G LTE, Red, SM-A015FZ",
+         "price"   : "115$"
+         ,"color"   : "Red"
+       
+
+    },
+    {
+        "id"       : 6,
+        "collection":"Mobile Phones and Accessories",
+        "image"    :"/images/mobile/im6.jpg",
+         "name"    :  " Redmi 9C RAM 2 32GB Memory Blue",
+         "price"   : "115$",
+         "color"   : "Blue"
+         
+    
+       
+
+    },
+    {
+        "id"       : 7,
+        "collection":"Mobile Phones and Accessories",
+        "image"    :"/images/mobile/im7.jpg",
+         "name"    :"Huawei Mate Pad T8 - 16GB - Blue",
+         "price"   : "115$"
+         ,"color"   : "Blue"
+    
+       
+
+    },
+
+    {
+        "id"       : 8,
+        "collection":"Mobile Phones and Accessories",
+        "image"    :"/images/mobile/im8.jpg",
+         "name"    :" Infinix Hot 9 Play 64GB Purple",
+         "price"   : "115$"
+         ,"color"   : "Purple"
+       
+
+    },
+    {
+        "id"       : 9,
+        "collection":"Mobile Phones and Accessories",
+        "image"    :"/images/mobile/im9.jpg",
+         "name"    :"HI-25 headphone",
+         "price"   : "115$"
+         ,"color"   : "Black"
+       
+
+    },
+    {
+        "id"       : 10,
+        "collection":"Mobile Phones and Accessories",
+        "image"    :"/images/mobile/im10.jpg",
+         "name"    :" Redmi 9A RAM 2 mobile phone with 32GB memory ",
+         "price"   : "2$"
+         ,"color"   : "Blue"
+       
+
+    },
+    {
+        "id"       : 11,
+        "collection":"Mobile Phones and Accessories",
+        "image"    :"/images/mobile/im11.jpg",
+         "name"    :" i-train Hp031 Earphone",
+         "price"   : "1.5$"
+         ,"color"   : "Red"
+       
+
+    },
+    {
+        "id"       : 12,
+        "collection":"Mobile Phones and Accessories",
+        "image"    :"/images/mobile/im12.jpg",
+         "name"    :"Yison Earphone CX320 - Black",
+         "price"   : "2.5$"
+         ,"color"   : "Black"
+       
+
+    },
+    {
+        "id"       : 13,
+        "collection":"Mobile Phones and Accessories",
+        "image"    :"/images/mobile/im13.jpg",
+         "name"    :"  Sleeper S30 headphone",
+         "price"   : "4$"
+         ,"color"   : "Orange"
+    
+       
+
+    },
+    {
+        "id"       : 14,
+        "collection":"Mobile Phones and Accessories",
+        "image"    :"/images/mobile/im14.jpg",
+         "name"    :"Soda SCA200 iPhone Charging Cable",
+         "price"   : "4.5$"
+         ,"color"   : "Orange"
+       
+
+    },
+    {
+        "id"       : 15,
+        "collection":"Mobile Phones and Accessories",
+        "image"    :"/images/mobile/im15.jpg",
+         "name"    :" Sleeper G4 Headphone",
+         "price"   : "3$"
+         ,"color"   : "Black"
+       
+
+    },
+    {
+        "id"       : 16,
+        "collection":"Mobile Phones and Accessories",
+        "image"    :"/images/mobile/im16.jpg",
+         "name"    :" Wired headphones from GIGMAX for computer 2 jack with microphone model gm008 black and red",
+         "price"   : "6$"
+         ,"color"   : "Black"
+       
+
+    }
+
+
+],
+"watches":[
+    {
+        "id"       : 1,
+        "collection":"watches",
+        "image"    :"/images/watches/im1.jpg",
+         "name"    :" SET.1330 M",
+         "price"   : "20$",
+         "color"   : " Silver"
+
+    },
+    {
+        "id"       : 2,
+        "collection":"watches",
+        "image"    :"/images/watches/im2.jpg",
+         "name"    :"  SET.1331 L",
+         "price"   : "14$",
+         "color"   : "Silver"
+
+    },
+    {
+        "id"       : 3,
+        "collection":"watches",
+        "image"    :"/images/watches/im3.jpg",
+         "name"    :"SET.1334 S",
+         "price"   : "18$",
+         "color"   : "All Color"
+
+    },
+    {
+        "id"       : 4,
+        "collection":"watches",
+        "image"    :"/images/watches/im4.jpg",
+         "name"    :"DA72 Q&Q men's watch",
+         "price"   : "25$",
+         "color"   : " Black"
+
+    },
+    {
+        "id"       : 5,
+        "collection":"watches",
+        "image"    :"/images/watches/im5.jpg",
+         "name"    :"Watch kit SET.1279-L",
+         "price"   : "22$",
+         "color"   : " Black"
+
+    },
+    {
+        "id"       : 6,
+        "collection":"watches",
+        "image"    :"/images/watches/im6.jpg",
+         "name"    :"WATCH KIT SET.1325-L",
+         "price"   : "12$",
+         "color"   : "Brown"
+
+    },
+    {
+        "id"       : 7,
+        "collection":"watches",
+        "image"    :"/images/watches/im7.jpg",
+         "name"    :" Watch A150M",
+         "price"   : "60$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 8,
+        "collection":"watches",
+        "image"    :"/images/watches/im8.jpg",
+         "name"    :"Watch Kit SET.1333-M",
+         "price"   : "32$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 9,
+        "collection":"watches",
+        "image"    :"/images/watches/im9.jpg",
+         "name"    :" Casio Women'sLeather Round Shape Analog",
+         "price"   : "50$",
+         "color"   : "Rose"
+
+    },
+    {
+        "id"       : 10,
+        "collection":"watches",
+        "image"    :"/images/watches/im9.jpg",
+         "name"    :"Casio Men's Black Dial Leather Band Watch - MTP-V001GL-1BUDF",
+         "price"   : "45$",
+         "color"   : "Brown"
+
+    },
+    {
+        "id"       : 11,
+        "collection":"watches",
+        "image"    :"/images/watches/im11.jpg",
+         "name"    :" Casio Marine Men's Black Dial Resin Band Watch - MRW-200H-9BVDF, Analog, Quartz",
+         "price"   : "65$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 12,
+        "collection":"watches",
+        "image"    :"/images/watches/im12.jpg",
+         "name"    :"Casio Blue Dial Watch For Men MTP-V004D-2BUDF",
+         "price"   : "52$",
+         "color"   : "Silver"
+
+    },
+    {
+        "id"       : 13,
+        "collection":"watches",
+        "image"    :"/images/watches/im13.jpg",
+         "name"    :"Casio watch MTP 1308 D",
+         "price"   : "38$",
+         "color"   : "Silver"
+
+    },
+
+    {
+        "id"       : 14,
+        "collection":"watches",
+        "image"    :"/images/watches/im14.jpg",
+         "name"    :"Citizen Dress Watch For Men Analog Stainless Steel - BI5006-81P",
+         "price"   : "200$",
+         "color"   : "Silver"
+
+    },
+    {
+        "id"       : 15,
+        "collection":"watches",
+        "image"    :"/images/watches/im15.jpg",
+         "name"    :" BI5006-81L CITIZEN WATCH FOR MEN - SILVER&GOLD",
+         "price"   : "190$",
+         "color"   : "Silver"
+
+    },
+    {
+        "id"       : 16,
+        "collection":"watches",
+        "image"    :"/images/watches/im16.jpg",
+         "name"    :"Citizen Casual Watch For Women Analog Stainless Steel - EU6052-53D",
+         "price"   : "52$",
+         "color"   : "Gold"
+
+    },
+    {
+        "id"       : 17,
+        "collection":"watches",
+        "image"    :"/images/watches/im17.jpg",
+         "name"    :" SWATCH RING BLING Stainless Steel Ladies Watch Silver*Gold Color: YSS286G",
+         "price"   : "142$",
+         "color"   : "Silver & Gold"
+
+    },
+    {
+        "id"       : 18,
+        "collection":"watches",
+        "image"    :"/images/watches/im18.jpg",
+         "name"    :"Swatch Casual Watch For Women Analog Stainless Steel - SVOC100M",
+         "price"   : "250$",
+         "color"   : "Gold"
+
+    }
+],
+"perfums":[
+    {
+        "id"       : 1,
+        "image"    :"/images/perfums/im1.jpg",
+         "name"    :"ALREHAB FANTASTIC EDP 50ML",
+         "price"   : "6$",
+         "color"   : "Red"
+
+    },
+    {
+        "id"       : 2,
+        "image"    :"/images/perfums/im2.jpg",
+         "name"    :"NEW NB BLEU POUR HOMME",
+         "price"   : "8$",
+         "color"   : "Blue"
+
+    },
+    {
+        "id"       : 3,
+        "image"    :"/images/perfums/im3.jpg",
+         "name"    :"LILIUM VELUET",
+         "price"   : "12$",
+         "color"   : "Mov"
+
+    },
+    {
+        "id"       : 4,
+        "image"    :"/images/perfums/im4.jpg",
+         "name"    :" MYSTIC blue 100ML",
+         "price"   : "12$",
+         "color"   : "Mov"
+
+    },
+    {
+        "id"       : 5,
+        "image"    :"/images/perfums/im5.jpg",
+         "name"    :"NB NEW BLUE WOMEN EDT 100ML",
+         "price"   : "12$",
+         "color"   : "Mov"
+
+    },
+   
+    {
+        "id"       : 6,
+        "image"    :"/images/perfums/im6.jpg",
+         "name"    :" NB NEW red MEN EDT 100ML",
+         "price"   : "16$",
+         "color"   : "Red"
+
+    },
+    {
+        "id"       : 7,
+        "image"    :"/images/perfums/im7.jpg",
+         "name"    :"NB NEW BLUE WOMEN EDT 100ML",
+         "price"   : "12$",
+         "color"   : "Blue"
+
+    },
+    {
+        "id"       : 8,
+        "image"    :"/images/perfums/im8.jpg",
+         "name"    :"NB NEW BLUE WOMEN EDT 100ML",
+         "price"   : "12$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 9,
+        "image"    :"/images/perfums/im9.jpg",
+         "name"    :"Xl chocolat 100 ml",
+         "price"   : "17$",
+         "color"   : "Gold"
+
+    },
+    {
+        "id"       : 10,
+        "image"    :"/images/perfums/im10.jpg",
+         "name"    :" PURE RED FOR MEN 100ML",
+         "price"   : "21$",
+         "color"   : "Red"
+
+    },
+    {
+        "id"       : 11,
+        "image"    :"/images/perfums/im11.jpg",
+         "name"    :"PURE VIBE MEN EDT 100ML",
+         "price"   : "12$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 12,
+        "image"    :"/images/perfums/im12.jpg",
+         "name"    :"PURE VIBE MEN EDT 100ML",
+         "price"   : "12$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 13,
+        "image"    :"/images/perfums/im13.jpg",
+         "name"    :"LOMANI VIRTUAL EDT 100ML",
+         "price"   : "18$",
+         "color"   : "Brown"
+
+    },
+   
+    {
+        "id"       : 14,
+        "image"    :"/images/perfums/im14.jpg",
+         "name"    :"STERLING ESTIARA FREEOLA EDP 100ML",
+         "price"   : "20$",
+         "color"   : "Gold"
+
+    },
+    {
+        "id"       : 14,
+        "image"    :"/images/perfums/im14.jpg",
+         "name"    :"STERLING ESTIARA FREEOLA EDP 100ML",
+         "price"   : "20$",
+         "color"   : "Rose"
+
+    },
+    {
+        "id"       : 15,
+        "image"    :"/images/perfums/im15.jpg",
+         "name"    :"LIVELY MEN EDT 100ML",
+         "price"   : "27$",
+         "color"   : "Blue"
+
+    },
+    {
+        "id"       : 16,
+        "image"    :"/images/perfums/im16.jpg",
+         "name"    :" PURE COUTURE NOIR FOR WOMEN EDP 100ML",
+         "price"   : "27$",
+         "color"   : "Rose"
+
+    },
+    {
+        "id"       : 17,
+        "image"    :"/images/perfums/im17.jpg",
+         "name"    :"PURE D`OR FOR WOMEN EDP 100ML",
+         "price"   : "24$",
+         "color"   : "Gold"
+
+    },
+    {
+        "id"       : 18,
+        "image"    :"/images/perfums/im18.jpg",
+         "name"    :"PURE D`OR FOR WOMEN EDP 100ML",
+         "price"   : "24$",
+         "color"   : "Gold"
+
+    },
+    {
+        "id"       : 19,
+        "image"    :"/images/perfums/im19.jpg",
+         "name"    :"PRIVE ONCE UPONA TIME",
+         "price"   : "13$",
+         "color"   : "Gold"
+
+    },
+    {
+        "id"       : 20,
+        "image"    :"/images/perfums/im20.jpg",
+         "name"    :"MAGNETA",
+         "price"   : "15$",
+         "color"   : "Rose"
+
+    }
+],
+"electronics":[
+    {
+        "id"       : 1,
+        "image"    :"/images/electronics/im1.jpg",
+         "name"    :"Nikai 32 Inch HD LED TV NE32LED + (32 Tv Wall mount for free)",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 2,
+        "image"    :"/images/electronics/im2.jpg",
+         "name"    :"Fresh 32 Inch HD LED TV - 32LH321",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 3,
+        "image"    :"/images/electronics/im3.jpg",
+         "name"    :"Fresh TV screen LED 32 Inch HD768p - 32LH323",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 4,
+        "image"    :"/images/electronics/im4.jpg",
+         "name"    :"Nikai Smart HD LED TV, 32 Inch, Black NE32SLED + (32 Tv Wall mount for free)",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 5,
+        "image"    :"/images/electronics/im5.jpg",
+         "name"    :" TOSHIBA LED TV 43 Inch Full HD With 3 HDMI and 2 USB Inputs 43L2800EV",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 6,
+        "image"    :"/images/electronics/im6.jpg",
+         "name"    :"Ultra 50 Inch 4K UHD Smart TV UT50S4KU",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 7,
+        "image"    :"/images/electronics/im7.jpg",
+         "name"    :"iLife ZED Note 14 Laptop- Intel HD, 14 inch, 64GB, 2GB, Gold",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+
+    {
+        "id"       : 8,
+        "image"    :"/images/electronics/im8.jpg",
+         "name"    :" Sary Book Plus Notebook, Intel Atom Z8300, 14 Inch HD, 64GB, 2GB Ram",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 9,
+        "image"    :"/images/electronics/im9.jpg",
+         "name"    :"Dell Inspiron 3580 Laptop With 15.6-Inch Display, Celeron Processor-4GB RAM-500GB HDD-Integrated Graphic",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 10,
+        "image"    :"/images/electronics/im10.jpg",
+         "name"    :"Acer V206HQL LED monitor 19.5 inch",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 11,
+        "image"    :"/images/electronics/im11.jpg",
+         "name"    :" Lenovo IdeaPad 330-15IGM 15.6 - Celeron N4000 - 4 GB RAM - 1 TB HDD ,DOs",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 12,
+        "image"    :"/images/electronics/im12.jpg",
+         "name"    :"PRINTER CANON INKJET MFP E474",
+         "price"   : "110$",
+         "color"   : "White"
+
+    },
+    {
+        "id"       : 13,
+        "image"    :"/images/electronics/im13.jpg",
+         "name"    :" PRINTER HP DESKJET 2130.ALL.IN.ONE",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 14,
+        "image"    :"/images/electronics/im14.jpg",
+         "name"    :" HP LaserJet Pro M15w Printer USB 2.0 Hi-Speed,Wi-Fi-Cartridge 44A-W2G51A",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 15,
+        "image"    :"/images/electronics/im15.jpg",
+         "name"    :"PRINTER CANON MFP MB2140 MEA",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 16,
+        "image"    :"/images/electronics/im16.jpg",
+         "name"    :"PRINTER HP OFFICEJET PRO 8210 ALL.IN.ONE",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 17,
+        "image"    :"/images/electronics/im17.jpg",
+         "name"    :" Unionaire UW400T-S Top Loading Washing Machine- 4Kg - White",
+         "price"   : "110$",
+         "color"   : "White"
+
+    },
+    {
+        "id"       : 18,
+        "image"    :"/images/electronics/im18.jpg",
+         "name"    :"resh Washing Machine BABY FWS300NA",
+         "price"   : "110$",
+         "color"   : "White"
+
+    },
+    {
+        "id"       : 19,
+        "image"    :"/images/electronics/im19.jpg",
+         "name"    :" Fresh Washing Machine Diamond FWT800NC",
+         "price"   : "110$",
+         "color"   : "Red"
+
+    },
+       {
+        "id"       : 20,
+        "image"    :"/images/electronics/im20.jpg",
+         "name"    :"White Whale Washing Machine 8 Kg Topload Silver WD-885MT",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 21,
+        "image"    :"/images/electronics/im21.jpg",
+         "name"    :" Passap Up Right Freezer - 4 Drawers - 143 Liter,Silver HAOFF",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 22,
+        "image"    :"/images/electronics/im22.jpg",
+         "name"    :"Alaska CH200 Chest Deep Freezer 208 Liter- White",
+         "price"   : "110$",
+         "color"   : "White"
+
+    },
+    {
+        "id"       : 23,
+        "image"    :"/images/electronics/im23.jpg",
+         "name"    :"Fresh Deep Freezer FDF-330 HAOFF",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 24,
+        "image"    :"/images/electronics/im24.jpg",
+         "name"    :"Fresh Chest Freezer FDF.330B EXTRA, 290 Liters Black",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 25,
+        "image"    :"/images/electronics/im25.jpg",
+         "name"    :"LG PK5 Xboom Go Wireless Bluetooth Speaker with Upto 18 Hours Playback and Grab & Go Handles LG OFFER",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 26,
+        "image"    :"/images/electronics/im26.jpg",
+         "name"    :"SUB F&D WIRELESS T.388",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 27,
+        "image"    :"/images/electronics/im27.jpg",
+         "name"    :" LG DVD Home Theater System, 2 Units, Black - LHD677",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 28,
+        "image"    :"/images/electronics/im28.jpg",
+         "name"    :" LG DVD LHD427 330W 5.1Ch DVD Home Theater System",
+         "price"   : "110$",
+         "color"   : "Black"
+
+    }
+],
+"toys":[
+    {
+        "id"       : 1,
+        "image"    :"/images/toys/im1.jpg",
+         "name"    :" Rubik's Cube 0111",
+         "price"   : "1$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 2,
+        "image"    :"/images/toys/im2.jpg",
+         "name"    :"Thomas Train",
+         "price"   : "11$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 3,
+        "image"    :"/images/toys/im3.jpg",
+         "name"    :"Hunting Series Toy Hunting Bow",
+         "price"   : "3$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 4,
+        "image"    :"/images/toys/im1.jpg",
+         "name"    :"Chuangfa Toys Rabbit Music Piano For Unisex",
+         "price"   : "3$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 5,
+        "image"    :"/images/toys/im5.jpg",
+         "name"    :"T13 jungle animals manual movement",
+         "price"   : "6$",
+         "color"   : "Black"
+
+    },
+
+    {
+        "id"       :6,
+        "image"    :"/images/toys/im6.jpg",
+         "name"    :" Electric keyboard 3738",
+         "price"   : "2$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 7,
+        "image"    :"/images/toys/im7.jpg",
+         "name"    :"Remote Control spiderman Stunt Car with sound and light",
+         "price"   : "8$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 8,
+        "image"    :"/images/toys/im8.jpg",
+         "name"    :"   Excavator model toy with rechargeable remote control",
+         "price"   : "5$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 9,
+        "image"    :"/images/toys/im9.jpg",
+         "name"    :"Paz fly and Udi 693",
+         "price"   : "5$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 10,
+        "image"    :"/images/toys/im10.jpg",
+         "name"    :"  Buzz sword and gun fly game for children",
+         "price"   : "5$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 11,
+        "image"    :"/images/toys/im11.jpg",
+         "name"    :"Casio Mini Keyboard, Black - SA-78",
+         "price"   : "5$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 12,
+        "image"    :"/images/toys/im12.jpg",
+         "name"    :" Sports Car With Remote Control",
+         "price"   : "5$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 13,
+        "image"    :"/images/toys/im13.jpg",
+         "name"    :"Gomaa Bike 8112010",
+         "price"   : "30$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 14,
+        "image"    :"/images/toys/im14.jpg",
+         "name"    :"Abo Elmagd Bike 20",
+         "price"   : "55$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 15,
+        "image"    :"/images/toys/im15.jpg",
+         "name"    :" PHillips Bike Size 20",
+         "price"   : "25$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 16,
+        "image"    :"/images/toys/im16.jpg",
+         "name"    :" Gomaa Bike 812003",
+         "price"   : "50$",
+         "color"   : "Black"
+
+    }
+],
+"sportsEquipments":[
+    {
+        "id"       : 1,
+        "image"    :"/images/sportsEquipments/im1.jpg",
+         "name"    :"Treadmill Profit 666D ",
+         "price"   : "220$",
+         "color"   : "Black"
+
+    },
+
+    {
+        "id"       : 2,
+        "image"    :"/images/sportsEquipments/im2.jpg",
+         "name"    :"Orbitrac Super Magnetic Wheel KLJ 8719 ",
+         "price"   : "220$",
+         "color"   : "Black"
+
+    },
+
+    {
+        "id"       : 3,
+        "image"    :"/images/sportsEquipments/im3.jpg",
+         "name"    :"Multi Gym One Station Model: 01C ",
+         "price"   : "220$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 4,
+        "image"    :"/images/sportsEquipments/im4.jpg",
+         "name"    :"  Profit Elliptical Trainer - KLJ-6.5 HA",
+         "price"   : "220$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 5,
+        "image"    :"/images/sportsEquipments/im5.jpg",
+         "name"    :" Full Whole Body Super Fit Vibration Massage Machine CFM 014 ",
+         "price"   : "220$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 6,
+        "image"    :"/images/sportsEquipments/im6.jpg",
+         "name"    :" Treadmill Profit MT-1916 ",
+         "price"   : "220$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 7,
+        "image"    :"/images/sportsEquipments/im7.jpg",
+         "name"    :"    Treadmill Profit 5014D",
+         "price"   : "220$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 8,
+        "image"    :"/images/sportsEquipments/im8.jpg",
+         "name"    :" Bicycle Trinx D210",
+         "price"   : "220$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 9,
+        "image"    :"/images/sportsEquipments/im9.jpg",
+         "name"    :"  Bicycle Trinx 216V",
+         "price"   : "220$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 10,
+        "image"    :"/images/sportsEquipments/im10.jpg",
+         "name"    :" Bike Trinx M136",
+         "price"   : "220$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 11,
+        "image"    :"/images/sportsEquipments/im11.jpg",
+         "name"    :"  Pushups On Push Up Bars",
+         "price"   : "220$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 12,
+        "image"    :"/images/sportsEquipments/im12.jpg",
+         "name"    :"  5-Spring Chest Pull",
+         "price"   : "220$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 13,
+        "image"    :"/images/sportsEquipments/im13.jpg",
+         "name"    :"Revoflex Xtreme abdominal trainer ",
+         "price"   : "220$",
+         "color"   : "Black"
+
+    },
+    {
+        "id"       : 14,
+        "image"    :"/images/sportsEquipments/im14.jpg",
+         "name"    :"Weight Training Set IR97633 ",
+         "price"   : "220$",
+         "color"   : "Black"
+
+    }
+
+]
+
+
+}

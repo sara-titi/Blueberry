@@ -1,0 +1,159 @@
+navBar /
+carsoul / color**
+catigories / 
+ offer day **
+ 
+
+
+
+
+
+product detail page
+1 make empty product details page
+2 make route for product details page
+3 fetch product information from db
+4 make templete or product dtails page 
+
+
+– React + Spring Boot + MySQL: CRUD example
+– React + Spring Boot + PostgreSQL: CRUD example
+– React + Spring Boot + MongoDB: CRUD example
+– React + Node.js + Express + MySQL: CRUD example
+– React + Node.js + Express + PostgreSQL example
+– React + Node.js + Express + MongoDB example
+– React + Django + Rest Framework example
+
+– React + Node.js + Express + MongoDB example
+
+
+============================================
+        <div className="row">
+                        <div className="col mt-5">
+                                <nav aria-label="breadcrumb" className="" >
+                                        <BreadcrumbBg className="breadcrumb">
+                                           <li className="breadcrumb-item"><BreadcrumbItemHome to ='/'>Home</BreadcrumbItemHome></li>
+                                            <li className="breadcrumb-item active" aria-current="page">Mobile Phone And Accessories  </li>
+                                        </BreadcrumbBg>
+                                </nav>
+                        </div>{/*end of colomn*/}
+                    </div>{/*end of row*/}
+==========================================================
+/*
+import axios from 'axios';
+import {useParams} from 'react-router-dom';
+import {BrowserRouter as Router, Route, Link} from 'react-router-dom';
+
+  const [state , setState] =useState([]);
+  
+  useEffect(()=>{
+    axios.get('/js/data.json').then(res =>{
+        setState(res.data.mobile); });
+    });
+    var id= state.id;
+     var {id} =useParams();
+         {state.filter(card => card.id === id)
+        .map((card,index)=>(
+          <h1>{card.name}</h1>
+         
+
+       ))}*/
+
+       Home
+Mobile Phones and Accessories
+Watches
+Perfumes
+Electronics
+Toys
+Sports Equipments
+
+//////
+        <div class="container  ">
+            <div class="row">
+                <div class="col-2 mt-5 ">
+               <Row1> CATEGORIES </Row1> 
+                </div>
+                <div class="col-2  mt-5">
+                <Row1>  SUPPORT</Row1> 
+                </div>
+                <div class="col-3  mt-5">
+                <Row1>  BUYING ON BLUEBERRY</Row1> 
+                </div>
+                <div class="col-2  mt-5">
+                <Row1>  FOLLOW US</Row1> 
+                </div>
+            </div>{/*end first row */}
+
+            <div class="row ">
+                <div class="col">
+               <Row2> Accessories </Row2> 
+                </div>
+                <div class="col ">
+                <Row2>  About Us</Row2> 
+                </div>
+                <div class="col  ">
+                <Row2>How It Works</Row2> 
+                </div>
+                <div class="col">
+                <Row2>  You Can Follow Us On Our Social media</Row2> 
+                </div>
+            </div>{/**end second row */}
+
+            <div class="row ">
+                <div class="col ">
+               <Row2> Watches </Row2> 
+                </div>
+                <div class="col">
+                <Row2>  Policy of returns</Row2> 
+                </div>
+                <div class="col ">
+                <Row2>Buying Policies</Row2> 
+                </div>
+                <div class="col ">
+                <Row2>  accounts</Row2> 
+                </div>
+            </div>{/**end 3ed row */}
+
+            <div class="row d-flex justify-content-center mt-2">
+                <div class="col">
+               <Row2> Perfumes </Row2> 
+                </div>
+                <div class="col">
+                <Row2>  Installment</Row2> 
+                </div>
+                <div class="col ">
+                <Row2>Buying Terms and Conditions</Row2> 
+                </div>
+            
+            </div>{/**end 4th row */}
+            <div class="row  mt-2">
+                <div class="col ">
+               <Row2> Toys </Row2> 
+                </div>
+                
+                <div class="col ">
+                <Row2>  Shipping and delivery</Row2> 
+                </div>
+               
+            </div>{/**end 5th row */}
+            <div class="row = mt-2">
+                <div class="col ">
+               <Row2> Electronics </Row2> 
+                </div>
+                <div class="col ">
+                <Row2>  Popular Questions</Row2> 
+                </div>
+               
+            </div>{/**end 6th row */}
+            </div>\
+
+            "../../images/mobile/im1.jpg" 
+
+            /////////////////////////
+            <i class="fas fa-camera fa-xs"></i>
+<i class="fas fa-camera fa-sm"></i>
+<i class="fas fa-camera fa-lg"></i>
+<i class="fas fa-camera fa-2x"></i>
+<i class="fas fa-camera fa-3x"></i>
+<i class="fas fa-camera fa-5x"></i>
+<i class="fas fa-camera fa-7x"></i>
+<i class="fas fa-camera fa-10x"></i>
